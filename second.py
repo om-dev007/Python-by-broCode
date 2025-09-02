@@ -16,8 +16,16 @@ print(type(is_student))
 
 gpa = int(gpa)
 
-print(f"your gpa is now {type(gpa)}")
+print(f"your gpa is now {type(gpa)} = {gpa}")
 
 age = float(age)
 
 print(f"your age is now {type(age)} = {age}")
+
+gpa += 1
+print(f"your gpa is now increase by {gpa}")
+
+bro = bool(bro)
+
+print(f"your name is now boolean let's check it {bro}")
+
