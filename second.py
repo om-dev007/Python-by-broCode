@@ -2,7 +2,7 @@
 
 #                str(), float(), int(), bool()
 
-bro = "name code"
+bro = ""
 
 age = 19
 
@@ -28,4 +28,3 @@ print(f"your gpa is now increase by {gpa}")
 bro = bool(bro)
 
 print(f"your name is now boolean let's check it {bro}")
-
