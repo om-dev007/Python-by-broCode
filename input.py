@@ -7,3 +7,7 @@ age = int(input("Enter your age: "))
 
 print(f"Your age is {age}")
 print(f"Your age type is {type(age)}")
+
+age += 1
+
+print(f"Your updated age is {age}")
