@@ -13,12 +13,12 @@ import math
 
 # Circumference of the circle
 
-radius = float(input("Enter the radius: "))
-circumference = 2 * math.pi * radius
+# radius = float(input("Enter the radius: "))
+# circumference = 2 * math.pi * radius
 
 # print(f"Radius = {radius}, circumference = {round(circumference, 2)}cm")
 
-area = math.pi * pow(radius, 2)
+# area = math.pi * pow(radius, 2)
 
 # print(f"The area of the cirlce is {round(area, 2)}cm^2")
 
